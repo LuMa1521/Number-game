@@ -1,0 +1,46 @@
+ .navbar-brand {
+    font-size: 35;
+    text-decoration: none;
+    color: black;
+    margin: auto;
+    position: center;
+}
+
+ .navbar {
+    background-color: gray; 
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 60px;
+ }
+
+ .banner {
+    margin-left: 43.5%; 
+    margin-right: 46%;
+    font-size: 60; 
+    color:saddlebrown;
+ }
+
+
+ .form-control {
+    width: 400px;
+    height: 50px;
+    text-decoration-color: black;
+    font-size: 25px;
+
+ }
+ button {
+    width: 100;
+    height: 40;
+    font-size: 18;
+    font-style: italic;
+    font-weight: 540;
+    margin-top: 10px;
+ }
+ .btn1 {
+    margin-left: 39%;
+    margin-right: 46;
+    background-color: darkgray;
+ }
+ .btn2 {
+    background-color: whitesmoke;
+ }
